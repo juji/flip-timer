@@ -1,6 +1,6 @@
 {
-  "name": "@jujiyangasli/react-flip-counter",
-  "version": "0.4.0",
+  "name": "react-flip-countdown",
+  "version": "0.4.1",
   "description": "React flip countdown timer",
   "main": "src/Countdown/index.js",
   "author": "jujiyangasli",
