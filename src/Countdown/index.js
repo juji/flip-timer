@@ -2,7 +2,7 @@ import React from 'react';
 import cn from 'classnames';
 import Flipper from './Flipper';
 import schema from './schema.js';
-import st from './style.scss';
+import st from './style.css';
 
 class Countdown extends React.Component {
 

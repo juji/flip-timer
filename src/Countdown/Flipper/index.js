@@ -1,7 +1,7 @@
 import React from 'react';
 import cn from 'classnames';
 import schema from './schema.js';
-import st from './style.scss';
+import st from './style.css';
 
 class Flipper extends React.Component {
 
